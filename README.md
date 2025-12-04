@@ -8,7 +8,7 @@ It combines:
 - 🧑‍💼 **Admin Portal** – inventory, staff, salaries, marketing, analytics  
 - 🧾 **Shop Management / POS Web App** – in-store billing, inventory updates, worker management, offline-first  
 
-All of this runs as one cohesive system, powered by **Spring Boot microservices, a GraphQL BFF, Redis**, and a **React** front-end.
+All of this runs as one cohesive system, powered by **Spring Boot microservices, a GraphQL BFF, Redis, MongoDB**, and a **React** front-end.
 
 ---
 
